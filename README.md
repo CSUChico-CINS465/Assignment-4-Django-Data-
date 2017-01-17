@@ -8,6 +8,7 @@ Getting a simple page with a form, model, and template building from model worki
 * Update model from form submission
 * Be creative
 * Be submitted to GitHub correctly
+* You should be able to view the site on your local machine at http://localhost/. For more information on setting up routes in Django, please see [the documentation](https://docs.djangoproject.com/en/1.10/topics/http/urls/)
 
 ## Submitting Assignment 4
 
